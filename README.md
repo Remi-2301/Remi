@@ -1,2 +1,2 @@
-## This is a test lol
-yiu can view the site here https://remi-2301.github.io/Remi/
+## Remi's profile 
+you can view the site here https://remi-2301.github.io/Remi/
